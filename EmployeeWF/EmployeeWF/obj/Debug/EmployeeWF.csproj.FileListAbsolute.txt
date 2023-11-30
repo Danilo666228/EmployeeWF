@@ -1,0 +1,10 @@
+Z:\Program C#\EmployeeWF\EmployeeWF\bin\Debug\EmployeeWF.exe.config
+Z:\Program C#\EmployeeWF\EmployeeWF\bin\Debug\EmployeeWF.exe
+Z:\Program C#\EmployeeWF\EmployeeWF\bin\Debug\EmployeeWF.pdb
+Z:\Program C#\EmployeeWF\EmployeeWF\obj\Debug\EmployeeWF.csproj.AssemblyReference.cache
+Z:\Program C#\EmployeeWF\EmployeeWF\obj\Debug\EmployeeWF.Properties.Resources.resources
+Z:\Program C#\EmployeeWF\EmployeeWF\obj\Debug\EmployeeWF.csproj.GenerateResource.cache
+Z:\Program C#\EmployeeWF\EmployeeWF\obj\Debug\EmployeeWF.csproj.CoreCompileInputs.cache
+Z:\Program C#\EmployeeWF\EmployeeWF\obj\Debug\EmployeeWF.exe
+Z:\Program C#\EmployeeWF\EmployeeWF\obj\Debug\EmployeeWF.pdb
+Z:\Program C#\EmployeeWF\EmployeeWF\obj\Debug\EmployeeWF.Form1.resources
